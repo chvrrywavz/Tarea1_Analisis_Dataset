@@ -1,1 +1,2 @@
-bitcoin_tweets_latest.csv
+data/*.csv
+!data/Tweets_limpios.csv
