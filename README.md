@@ -1,2 +1,4 @@
 # Tarea1_Analisis_Dataset
-Tarea 1 para la asignatura de Estructuras de Datos De la universidad de valparaiso 
+Proyecto para la asignatura Estructura de datos de la universidad de Valparaíso. 
+
+Integrantes: Ignacio Cortes, Ignacio Rivera, Cristofer Riveros
