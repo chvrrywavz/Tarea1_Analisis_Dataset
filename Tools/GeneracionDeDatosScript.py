@@ -16,10 +16,6 @@ print(f"-> Procesando relaciones para {totalUsuarios} usuarios únicos.")
 
 #RED SINTETICA 
 #esto es para extraer los usuarios unicos
-usuariosUnicos = df['user_name'].dropna().unique().tolist()
-totalUsuarios = len(usuariosUnicos)
-print(f"Total de usuarios únicos: {totalUsuarios}")
-
 #este bloque genera los datos 
 diccionarioAmigos = {}
 for usuario in usuariosUnicos:
